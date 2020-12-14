@@ -9,5 +9,7 @@ public class TestTwo {
     private void test3(){
         System.out.println("reset");
     }
-
+    private void test4(){
+        System.out.println("branch");
+    }
 }
